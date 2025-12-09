@@ -1,0 +1,10 @@
+| Critère               | unittest                         | pytest                       |
+| --------------------- | -------------------------------- | ---------------------------- |
+| Inclus dans Python    | ✔ Oui                            | ❌ Non                        |
+| Simplicité            | ❌ Verbeux                        | ✔ Très simple                |
+| Style                 | Orienté classes                  | Fonctions                    |
+| Assertions            | Méthodes                         | `assert` natif               |
+| Paramétrisation       | ❌ Complexe                       | ✔ Très facile                |
+| Plugins               | ❌ Faible                         | ✔ Très riche                 |
+| Exécution automatique | ❌ Non                            | ✔ Oui                        |
+| Idéal pour            | Code académique, projets simples | Projets pro, pipelines CI/CD |
